@@ -6,6 +6,7 @@ let carrinho = document.getElementsByClassName('carrinho__produtos__produto');
 
 limpar();
 
+
 function adicionar(){
 
     // recuperar valores: nome do produto, quantidade e valor;
